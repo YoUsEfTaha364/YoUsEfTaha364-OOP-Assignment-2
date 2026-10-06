@@ -1,0 +1,3 @@
+- Singleton: https://lnkd.in/p/e7Nw8Ydy
+- Prototype: https://lnkd.in/p/ensf9fwZ
+- Builder: https://lnkd.in/p/en2wmm48
